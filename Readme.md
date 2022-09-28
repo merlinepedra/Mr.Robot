@@ -1,6 +1,6 @@
 # Mr.Robot : Level - 1
 
-## How To Host
+## How To 
 Step 1 : Clone the repository
 ```
 git clone https://github.com/A3h1nt/Mr.Robot
